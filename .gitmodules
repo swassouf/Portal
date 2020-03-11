@@ -1,0 +1,3 @@
+[submodule "PortalLibrary"]
+	path = PortalLibrary
+	url = https://github.com/swassouf/PortalLibrary.git
