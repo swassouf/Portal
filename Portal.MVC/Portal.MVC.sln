@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Portal.MVC", "Portal.MVC\Po
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortalLibrary", "..\PortalLibrary\PortalLibrary\PortalLibrary\PortalLibrary.csproj", "{806695C7-0FA8-48EA-A99C-746E575A450F}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PortalLibrarySubtree", "..\PortalLibrarySubtree\PortalLibrarySubtree\PortalLibrarySubtree\PortalLibrarySubtree.csproj", "{1C07FBEF-8F00-4915-B030-116A82A0602B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{806695C7-0FA8-48EA-A99C-746E575A450F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{806695C7-0FA8-48EA-A99C-746E575A450F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{806695C7-0FA8-48EA-A99C-746E575A450F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C07FBEF-8F00-4915-B030-116A82A0602B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C07FBEF-8F00-4915-B030-116A82A0602B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C07FBEF-8F00-4915-B030-116A82A0602B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C07FBEF-8F00-4915-B030-116A82A0602B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
